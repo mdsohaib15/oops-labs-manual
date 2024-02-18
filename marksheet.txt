@@ -1,0 +1,11 @@
+Name: Sohaib
+Roll No: 22F-BSAI-40
+Marks:
+Subject 1: 85
+Subject 2: 90
+Subject 3: 75
+Subject 4: 80
+Subject 5: 92
+Total Marks: 422
+Average Marks: 84.40
+Grade: B
